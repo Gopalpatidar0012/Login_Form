@@ -1,0 +1,26 @@
+body{
+  background-color: rgb(231, 237, 237);
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.bodyDiv{
+  width: 350px;
+  height: 350px;
+  border-radius: 10px;
+  background-color: rgb(241, 155, 155);
+  position: absolute;
+  top:200px;
+  left:666px;
+
+
+
+}
+
+.login{
+  align-items: center;
+  margin-left: 100px;
+  background-color: rgb(60, 135, 135);
+  position: absolute;
+  top: 240px;
+  left: 731px;
+}

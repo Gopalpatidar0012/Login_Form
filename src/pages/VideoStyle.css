@@ -1,0 +1,12 @@
+.videoPlayer{
+    position: absolute;
+    top:138px;
+    left: 100px;
+
+
+}
+
+.videoPlayer iframe{
+    margin-left: 100px;
+    margin-bottom: 15px;
+}
